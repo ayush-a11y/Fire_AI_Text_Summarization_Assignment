@@ -1,0 +1,2 @@
+# Fire_AI_Text_Summarization_Assignment
+Text_summarization_using_t5_samll_and_bart_base
